@@ -4,7 +4,7 @@ Third project in an AI/ML portfolio series aimed at Senior PM roles in banking/f
 the iPhone Review Sentiment Analysis v1 (TF-IDF + Logistic Regression) and v2 (fine-tuned BERT +
 Claude frontend) projects.
 
-**Live demo:** _add your Streamlit Cloud URL here after deploying_
+**Live demo:** [o3uk3guejqv9fujcthmgbf.streamlit.app](https://o3uk3guejqv9fujcthmgbf.streamlit.app)d your Streamlit Cloud URL here after deploying_
 **Dataset:** [PaySim — Synthetic Financial Datasets For Fraud Detection](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 ## What this project demonstrates
